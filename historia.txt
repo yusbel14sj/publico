@@ -2,6 +2,6 @@ este es mi archivo de texto
 de prueba 
 para aprender git hub
 
-modificacion 1
+modificacion primero
 
 esta persona mide 167 cm
